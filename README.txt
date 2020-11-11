@@ -2,6 +2,6 @@ Just some notes, some of the code is pasted and not proper credits are given, bu
 
 No git history because it contains personal info.
 
-Discord: https://discord.gg/UEyGRGu , rules still apply in the discord
+Boj#0001
 
-dominika#0076
+https://discord.gg/6bsVVFE2
